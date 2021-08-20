@@ -1,0 +1,19 @@
+{
+    "name": "tati/first_slim_progeckt",
+    "autoload": {
+        "psr-4": {
+            "Tati\\FirstSlimProgeckt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Тати",
+            "email": "tdudnik35@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/http": "^1.2",
+        "slim/psr7": "^1.4"
+    }
+}
